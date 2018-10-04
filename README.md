@@ -1,4 +1,4 @@
-# A customer classification tool written in R for Dixons Carphone customers searching online for an iPhone 7 and Samsung Galaxy S8, involving real data
+# A customer classification tool written in R using real data
 
 Code written as part of a group project for the MSc Business Analytics course. Group members:
 
@@ -9,7 +9,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
 
 ## Overview
 
-- Designed binary and multi-classification models to predict whether a customer will visit the website of _Dixons Carphone_ or one of  its competitors (_Amazon_ or _Samsung_),  based  on  5  demographic  attributes  of  a  prospective customer:
+- Designed binary and multi-classification models to predict whether a customer searching for an _iPhone 7_ or _Samsung Galaxy S8_ will visit the website of _Dixons Carphone_ or one of its competitors (_Amazon_ or _Samsung_), based on 5 demographic attributes of a prospective customer:
    - Annual income
    - Age
    - Sex
