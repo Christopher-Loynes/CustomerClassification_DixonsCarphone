@@ -17,7 +17,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
    - Region
    - Employment type
    
-- Multiple input parameters  were  adjusted  to  optimise models and 3 evaluation  metrics were primarily  used  to  assess  each  model's  performance:
+- Multiple input parameters were adjusted to optimise models and 3 evaluation metrics were primarily used to assess each model's performance:
    - Misclassification  Rate
    - Accuracy Rate 
    - Area Under the Curve (AUC)
@@ -27,7 +27,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
 1) **Simulate additional data**
    - Real data obtained from [Audience View](https://audience-view.com/#/) 
       - Demographic breakdown of users who have searched for an _iPhone 7_ or _Samsung Galaxy S8_
-   - Additional data simulated in the same ratios
+   - Additional data simulated in the same ratios as the original data taken from _Audience View_
    
 2) **Naive Bayes**
    - Classify potential customers by demographics using a _Naive Bayes_ model
@@ -40,7 +40,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
 - Multi-classification models performed poorly, due to the dominance of _Amazon_ attracting traffic for both the _iPhone 7_ and _Samsung Galaxy S8_ 
 
 - Binary models were also built and tested
-   - Involved amending the simulated datasets for each handset, such  that all retailers, other than _Dixons Carphone_, were set to ‘other’
+   - Involved amending the simulated datasets for each handset, such that all retailers, other than _Dixons Carphone_, were set to ‘other’
    
    - Binary models provided an improvement to the multi-classification models:
       - Lower Misclassification Rate
