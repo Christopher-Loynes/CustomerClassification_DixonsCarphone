@@ -8,7 +8,12 @@ Code written as part of a group project for the MSc Business Analytics course. G
 
 ## Overview
 
-- Designed binary and multi-classification models to predict whether a customer will visit the website of Carphone Warehouse or one of  its competitors,  based  on  5  demographic  attributes  of  a  prospective customer.  
+- Designed binary and multi-classification models to predict whether a customer will visit the website of Carphone Warehouse or one of  its competitors (Amazon or Samsung),  based  on  5  demographic  attributes  of  a  prospective customer:
+   - Annual income
+   - Age
+   - Sex
+   - Region
+   - Employment type
 - Multiple input parameters  were  adjusted  to  optimise models and 3 evaluation  metrics were primarily  used  to  assess  each  model's  performance:
    - Misclassification  Rate
    - Accuracy Rate 
@@ -31,7 +36,7 @@ Code written as part of a group project for the MSc Business Analytics course. G
       - Lower Misclassification Rate
       - Higher Accuracy Rate
       - Higher AUC. 
-   - It was found that Amazon’s dominance wasevident across the both handsets and that no classifier constructed was able to classify which retailer a customers would visit, solely based on their demographic attributes.
+   - Amazon’s dominance was evident across both handsets 
 
 
 
