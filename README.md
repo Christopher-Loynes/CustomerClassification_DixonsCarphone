@@ -37,7 +37,7 @@ Code written as part of a group project for the MSc Business Analytics course. G
    - Binary models provided an improvement to the multi-classification models:
       - Lower Misclassification Rate
       - Higher Accuracy Rate
-      - Higher AUC. 
+      - Higher AUC
    - Amazon’s dominance was evident across both handsets 
 
 
