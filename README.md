@@ -40,10 +40,12 @@ The results were presented back to Dixons Carphone.
 
 - Binary models were also built and tested
    - Involved amending the simulated datasets for each handset, such  that all retailers, other than Carphone Warehouse, were set to ‘other’
+   
    - Binary models provided an improvement to the multi-classification models:
       - Lower Misclassification Rate
       - Higher Accuracy Rate
       - Higher AUC
+      
    - Amazon’s dominance was evident across both handsets 
    
 ## Resources
