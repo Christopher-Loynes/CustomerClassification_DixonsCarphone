@@ -27,14 +27,17 @@ The results were presented back to Dixons Carphone.
 1) **Simulate additional data**
    - Real data obtained from Audience View (Hitwise) - demographic breakdown by website visits
    - Additional data simulated in the same ratios
+   
 2) **Naive Bayes**
    - Classify potential customers by demographics using a Naive Bayes model
+   
 3) **Support Vector Machine**
    - Classify potential customers by demographics using a Support Vector Machine model
 
 ## Results
 
 - Multi-classification models performed poorly, due to the dominance of Amazon attractic traffic for both the iPhone 7 and Samsung Galaxy S8 
+
 - Binary models were also built and tested
    - Involved amending the simulated datasets for each handset, such  that all retailers, other than Carphone Warehouse, were set to ‘other’
    - Binary models provided an improvement to the multi-classification models:
