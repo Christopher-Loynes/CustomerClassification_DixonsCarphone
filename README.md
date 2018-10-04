@@ -1,6 +1,6 @@
 # A customer classification tool written in R for Dixons Carphone customers searching for an iPhone 7 and Samsung Galaxy S8
 
-Code written as part of a group project as part of MSc Business Analytics course. Group members:
+Code written as part of a group project for the MSc Business Analytics course. Group members:
 
 - [1) Olivier Kraaijeveld](https://www.linkedin.com/in/olivier-kraaijeveld-a6851ba4/)
 - [2) Nandini Tyagi](https://www.linkedin.com/in/nandinityagi/)
