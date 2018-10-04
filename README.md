@@ -9,8 +9,8 @@ Code written as part of a group project as part of MSc Business Analytics course
 ## Process:
 
 1) **Simulate additional data**
-  - Real data obtained from Audience View (Hitwise) - demographic breakdown by website visits
-  - Additional data simulated in the same ratios
+   - Real data obtained from Audience View (Hitwise) - demographic breakdown by website visits
+   - Additional data simulated in the same ratios
 2) **Naive Bayes**
 3) **Support Vector Machine**
 
