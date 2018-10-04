@@ -1,4 +1,4 @@
-# A customer classification tool written in R for Dixons Carphone customers searching for an iPhone 7 and Samsung Galaxy S8, involving real data
+# A customer classification tool written in R for Dixons Carphone customers searching online for an iPhone 7 and Samsung Galaxy S8, involving real data
 
 Code written as part of a group project for the MSc Business Analytics course. Group members:
 
@@ -25,7 +25,8 @@ The results were presented back to Dixons Carphone.
 ## Process:
 
 1) **Simulate additional data**
-   - Real data obtained from Audience View (Hitwise) - demographic breakdown by website visits
+   - Real data obtained from Audience View (Hitwise)
+      - Demographic breakdown of users who have searched for an iPhone 7 or Samsung Galaxy S8
    - Additional data simulated in the same ratios
    
 2) **Naive Bayes**
