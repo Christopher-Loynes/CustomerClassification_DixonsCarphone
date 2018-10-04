@@ -2,9 +2,8 @@
 
 Code written as part of a group project for the MSc Business Analytics course. Group members:
 
-- [1) Olivier Kraaijeveld](https://www.linkedin.com/in/olivier-kraaijeveld-a6851ba4/)
-- [2) Nandini Tyagi](https://www.linkedin.com/in/nandinityagi/)
-- [3) I-Ting Wu](https://www.linkedin.com/in/i-ting-wu-7b8594132/) 
+- [1) Nandini Tyagi](https://www.linkedin.com/in/nandinityagi/)
+- [2) I-Ting Wu](https://www.linkedin.com/in/i-ting-wu-7b8594132/) 
 
 The results were presented back to _Dixons Carphone_, compared against _Apple_ and _Samsung_.
 
