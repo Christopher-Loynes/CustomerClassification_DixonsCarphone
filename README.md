@@ -6,11 +6,11 @@ Code written as part of a group project for the MSc Business Analytics course. G
 - [2) Nandini Tyagi](https://www.linkedin.com/in/nandinityagi/)
 - [3) I-Ting Wu](https://www.linkedin.com/in/i-ting-wu-7b8594132/) 
 
-The results were presented back to Dixons Carphone.
+The results were presented back to _Dixons Carphone_, compared against _Apple_ and _Samsung_.
 
 ## Overview
 
-- Designed binary and multi-classification models to predict whether a customer will visit the website of Carphone Warehouse or one of  its competitors (Amazon or Samsung),  based  on  5  demographic  attributes  of  a  prospective customer:
+- Designed binary and multi-classification models to predict whether a customer will visit the website of _Dixons Carphone_ or one of  its competitors (_Amazon_ or _Samsung_),  based  on  5  demographic  attributes  of  a  prospective customer:
    - Annual income
    - Age
    - Sex
@@ -25,7 +25,7 @@ The results were presented back to Dixons Carphone.
 ## Process:
 
 1) **Simulate additional data**
-   - Real data obtained from Audience View (Hitwise)
+   - Real data obtained from [Audience View](https://audience-view.com/#/) 
       - Demographic breakdown of users who have searched for an iPhone 7 or Samsung Galaxy S8
    - Additional data simulated in the same ratios
    
