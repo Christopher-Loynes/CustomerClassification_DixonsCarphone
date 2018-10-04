@@ -16,6 +16,7 @@ The results were presented back to Dixons Carphone.
    - Sex
    - Region
    - Employment type
+   
 - Multiple input parameters  were  adjusted  to  optimise models and 3 evaluation  metrics were primarily  used  to  assess  each  model's  performance:
    - Misclassification  Rate
    - Accuracy Rate 
