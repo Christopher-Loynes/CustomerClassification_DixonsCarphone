@@ -1,10 +1,12 @@
-# A customer classification tool written in R for Dixons Carphone customers searching for an iPhone 7 and Samsung Galaxy S8
+# A customer classification tool written in R for Dixons Carphone customers searching for an iPhone 7 and Samsung Galaxy S8, involving real data
 
 Code written as part of a group project for the MSc Business Analytics course. Group members:
 
 - [1) Olivier Kraaijeveld](https://www.linkedin.com/in/olivier-kraaijeveld-a6851ba4/)
 - [2) Nandini Tyagi](https://www.linkedin.com/in/nandinityagi/)
 - [3) I-Ting Wu](https://www.linkedin.com/in/i-ting-wu-7b8594132/) 
+
+The results were presented back to Dixons Carphone.
 
 ## Overview
 
@@ -39,6 +41,11 @@ Code written as part of a group project for the MSc Business Analytics course. G
       - Higher Accuracy Rate
       - Higher AUC
    - Amazon’s dominance was evident across both handsets 
+   
+## Resources
+
+- [1) Data](https://github.com/Christopher-Loynes/DisasterDetectionTool/wiki/'Evaluation'-Folder)
+- [2) Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
 
 
 
