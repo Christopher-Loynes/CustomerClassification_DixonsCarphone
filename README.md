@@ -51,8 +51,8 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
    
 ## Resources
 
-- [1) Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
-- 2) Data 
+- [Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
+- Data 
    - Not included due to privacy agreement 
 
 
