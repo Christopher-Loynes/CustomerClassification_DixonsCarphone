@@ -44,7 +44,7 @@ The results were presented back to Dixons Carphone.
    
 ## Resources
 
-- [1) Data](https://github.com/Christopher-Loynes/DisasterDetectionTool/wiki/'Evaluation'-Folder)
+- [1) Data](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/'Data'-Folder)
 - [2) Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
 
 
