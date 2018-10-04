@@ -17,7 +17,7 @@ Code written as part of a group project for the MSc Business Analytics course. G
 - Multiple input parameters  were  adjusted  to  optimise models and 3 evaluation  metrics were primarily  used  to  assess  each  model's  performance:
    - Misclassification  Rate
    - Accuracy Rate 
-   - Area Under the Curve (AUC). 
+   - Area Under the Curve (AUC)
    
 ## Process:
 
@@ -25,7 +25,9 @@ Code written as part of a group project for the MSc Business Analytics course. G
    - Real data obtained from Audience View (Hitwise) - demographic breakdown by website visits
    - Additional data simulated in the same ratios
 2) **Naive Bayes**
+   - Classify potential customers by demographics using a Naive Bayes model
 3) **Support Vector Machine**
+   - Classify potential customers by demographics using a Support Vector Machine model
 
 ## Results
 
