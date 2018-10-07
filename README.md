@@ -28,11 +28,9 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
       - Demographic breakdown of users who have searched for an _iPhone 7_ or _Samsung Galaxy S8_
    - Additional data simulated in the same ratios as the original data taken from _Audience View_
    
-2) **Naive Bayes**
-   - Classify potential customers by demographics using a _Naive Bayes_ model
+2) **Classify potential customers using a _Naive Bayes_ model**
    
-3) **Support Vector Machine**
-   - Classify potential customers by demographics using a _Support Vector Machine_ model
+3) **Classify potential customers using a _Support Vector Classifier (SVC)_ model**
 
 ## Results
 
@@ -52,7 +50,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
 
 - [Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
 - [Data](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Data)
-   - Not included due to privacy agreement 
+   - Data not included in the repository, due to privacy agreement 
 
 
 
