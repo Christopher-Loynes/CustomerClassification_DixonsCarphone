@@ -50,7 +50,7 @@ The results were presented back to _Dixons Carphone_, compared against _Apple_ a
 
 - [Code](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Code)
 - [Data](https://github.com/Christopher-Loynes/CustomerClassification_DixonsCarphone/wiki/Data)
-   - Data not included in the repository due to privacy agreement 
+   - Data not included in the repository due to a privacy agreement between The University of Edinburgh and Dixons Carphone
 
 
 
